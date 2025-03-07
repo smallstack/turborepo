@@ -1,5 +1,7 @@
 <script lang="ts">
-	import { MyCounterButton } from '@repo/ui';
+	import { MyCounterButton, SampleClass } from '@repo/ui';
+
+  new SampleClass();
 </script>
 
 <h1>Web</h1>
